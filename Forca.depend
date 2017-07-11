@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1435431560 source:c:\users\visitante\desktop\felipe\linguagem c\exercicios site\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1435585739 source:c:\users\uezo\desktop\anexos\main_1.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1435601578 source:c:\users\visitante\desktop\felipe\linguagem c\exercicios site\forca\main_1.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1436013216 source:c:\users\visitante\desktop\felipe\linguagem c\forca\main_1.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1435931142 source:c:\users\visitante\desktop\felipe\linguagem c\forca\teste.c
+	<stdio.h>
+
+1435948312 source:c:\users\visitante\desktop\felipe\linguagem c\forca\teste2.c
+	<time.h>
+	<stdio.h>
+
+1436213346 source:c:\users\visitante\desktop\felipe\linguagem c\forca\forca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1436106417 source:c:\users\visitante\downloads\forca3.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<time.h>
+
+1436270326 source:d:\linguagem c\forca\forca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1436272290 source:c:\users\uezo\desktop\forca\forca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
